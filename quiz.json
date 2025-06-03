@@ -1,0 +1,62 @@
+[
+    {
+        "question": "What is the primary purpose of type hints in Python?",
+        "options": [
+            "A. To enforce strict type checking at runtime, causing errors if types mismatch.",
+            "B. To improve code readability and maintainability by providing information about expected data types.",
+            "C. To automatically convert data types during program execution.",
+            "D. To optimize code performance by allowing the interpreter to make type-specific assumptions."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which of the following is the correct syntax for type hinting a variable named `my_variable` as an integer?",
+        "options": [
+            "A. `my_variable = int`",
+            "B. `my_variable: int`",
+            "C. `int my_variable`",
+            "D. `type(my_variable) = int`"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What happens if a function with type hints receives an argument of an incorrect type? (Assume no external type checking tools are used.)",
+        "options": [
+            "A. A runtime error is always raised.",
+            "B. A compile-time error is always raised.",
+            "C. The program continues to run, but might produce unexpected results.",
+            "D.  Type hints are ignored, and the function executes without error regardless of the argument type."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is a function in programming?",
+        "options": [
+            "A. A type of loop",
+            "B. A block of code designed to perform a specific task",
+            "C. A variable that stores data",
+            "D. A type of comment"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is the purpose of a function's parameters (or arguments)?",
+        "options": [
+            "A. To define the data type of the function's return value",
+            "B. To provide input data to the function",
+            "C. To control the flow of execution within the function",
+            "D. To declare the function's name"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What does a function's return statement do?",
+        "options": [
+            "A.  It prints the result to the console.",
+            "B.  It stops the execution of the program.",
+            "C. It sends a value back to the part of the program that called the function.",
+            "D. It defines a new variable within the function."
+        ],
+        "answer": "C"
+    }
+]
